@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **m020202/m020202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m020202)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=m020202)](https://solved.ac/{handle})
